@@ -12,7 +12,7 @@
 | **Private storage** | `https://jetvaults.blob.core.windows.net/finance-family-8rj-private/` |
 | **Public container** | `finance-family-8rj` |
 | **Private container** | `finance-family-8rj-private` |
-| **Activated** | No |
+| **Activated** | Yes |
 
 ## CNAME
 
