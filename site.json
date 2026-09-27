@@ -1,0 +1,12 @@
+{
+  "url": "https://preview.finance-family.co.il",
+  "pages_url": "https://finance-family-8rj.pages.dev",
+  "nameservers": [],
+  "storage": "https://jetvaults.blob.core.windows.net/finance-family-8rj/",
+  "private_storage": "https://jetvaults.blob.core.windows.net/finance-family-8rj-private/",
+  "storage_profile": "standard",
+  "storage_profile_label": "Standard",
+  "storage_account": "jetvaults",
+  "storage_account_url": "https://jetvaults.blob.core.windows.net",
+  "activated": false
+}
